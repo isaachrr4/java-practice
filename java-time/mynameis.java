@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class mynameis {
     public static void main(String[] args) {
         System.out.println("Hi, my name is java");
@@ -10,5 +9,4 @@ public class mynameis {
             System.out.println("You said: " + userInput);
         }
     } 
-    
 }
