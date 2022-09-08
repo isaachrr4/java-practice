@@ -5,7 +5,7 @@ public class registrar {
     public static void main(String[] args) {
         System.out.println("Welcome to our app!");
         System.out.println("Please make a selection from the options below");
-        System.out.println(" 1) Register \n2) Login \n3) Exit");
+        System.out.println(" 1) 1Register \n2) Login \n3) Exit");
 
         try(Scanner consoleReader = new Scanner(System.in)) {
             String userSelection = consoleReader.nextLine();
